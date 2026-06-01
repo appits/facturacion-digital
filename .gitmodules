@@ -1,7 +1,7 @@
 [submodule "appits/l10n_ve"]
 	path = appits/l10n_ve
 	url = git@github.com:appits/l10n_ve.git
-	branch = maggiepaul
+	branch = 17.0
 
 [submodule "appits/its-digital-invoicing"]
 	path = appits/its-digital-invoicing
